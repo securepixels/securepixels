@@ -32,7 +32,6 @@ height="40" style="vertical-align:top; margin:4px">
 ## 🌻 connect with me
 <h3 align="left"> my social media</h3>
 <p align="left">
-<a href="https://twitter.com/chrissyacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrissyacoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/christiepamphile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christiepamphile" height="30" width="40" /></a>
  </p>
  <br>
