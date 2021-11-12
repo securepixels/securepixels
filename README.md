@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Python
 - I'm an avid reader, my favorite author is James Baldwin
 - 🌱 I’m a Software Developer
-- i created my [portfolio website](https://christiepamphile.dev) from scratch 
+- I created my [portfolio website](https://christiepamphile.dev) from scratch 
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming!
