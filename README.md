@@ -29,12 +29,7 @@ height="40" style="vertical-align:top; margin:4px">
 </p>
 <br>
 
-## 🌻 connect with me
-<h3 align="left"> my social media</h3>
-<p align="left">
-<a href="https://linkedin.com/in/christiepamphile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christiepamphile" height="30" width="40" /></a>
- </p>
- <br>
+
  
  ## buy me a coffee
 <p><a href="https://www.buymeacoffee.com/chrissyacoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
