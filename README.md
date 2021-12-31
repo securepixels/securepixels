@@ -10,7 +10,7 @@
 - I created my [portfolio website](https://christiepamphile.dev) from scratch 
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love gaming!
+- ⚡ Fun fact: I love gaming and I am an artist!
 
 ## 🌻 Languages and tools I've worked with
 <p align="left">
