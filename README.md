@@ -40,7 +40,7 @@ https://medium.com/@chrissyp
 
 
  
- ## buy me a coffee
+ ## Buy me a coffee
 <p><a href="https://www.buymeacoffee.com/chrissyacoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
 <!--
 **chrissyacoder/chrissyacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
