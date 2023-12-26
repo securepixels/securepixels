@@ -4,7 +4,7 @@
 
 
 ## About me ✨
-- 🔭 I’m currently learning Cybersecurity, AI, and Data Analytics
+- 🔭 I’m currently learning Cybersecurity, AI
 - I'm an avid reader, and my favorite author is James Baldwin
 - 🌱 I’m a Software Developer, UI/ UX Designer, & Technical Writer
 - I created my [portfolio website](https://www.christiepamphile.com) from scratch (currently updating)
