@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning Cybersecurity, AI
 - I'm an avid reader, and my favorite author is James Baldwin
 - 🌱 I’m a Software Developer, UI/ UX Designer, & Technical Writer
-- I created my [portfolio website](https://www.christiepamphile.com) from scratch (currently updating)
+- I created my [portfolio website]() from scratch (currently updating)
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming and I am an artist!🎨
