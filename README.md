@@ -6,7 +6,7 @@
 ## About me ✨
 - 🔭 I’m currently learning Cybersecurity, AI
 - I'm an avid reader, and my favorite author is James Baldwin
-- 🌱 I’m a Software Developer, UI/ UX Designer, & Technical Writer
+- 🌱 I’m a Software Developer, UI/ UX Designer, & Technical Writer Pivoting into Application/Product Security Engineer
 - I created my [portfolio website]() from scratch (currently updating)
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
