@@ -4,7 +4,7 @@
 
 
 ## About me ✨
-- 🔭 I’m currently learning Cybersecurity, AI
+- 🔭 I’m currently learning Cybersecurity, AI (lifelong learner == learning never stops)☺️
 - I'm an avid reader, and my favorite author is James Baldwin
 - 🌱 I’m a Software Developer, UI/ UX Designer, & Technical Writer
 - Pivoting into Application/Product Security Engineer (currently studying for security+)
