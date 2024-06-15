@@ -8,7 +8,7 @@
 - I'm an avid reader, and my favorite author is James Baldwin
 - 🌱 I’m a Software Developer, UI/ UX Designer, & Technical Writer
 - Pivoting into Application/Product Security Engineer (currently studying for security+)
-- I created my [portfolio website](https://www.christiepamphile.com) from scratch (currently updating)
+- I created a portfolio check it out here: [portfolio website](https://www.christiepamphile.com) (constanly updating)
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming and I am an artist!🎨
