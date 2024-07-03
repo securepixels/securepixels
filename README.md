@@ -13,7 +13,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming and I am an artist!🎨
 
-Check out my technical writing samples at:
+My technical writing samples at:
 https://medium.com/@chrissyp
 
 ## 🌻 Technologies I work with
