@@ -16,7 +16,7 @@
 My technical writing samples at:
 https://medium.com/@chrissyp
 
-## 🌻 Technologies I work with
+## 🌻 Tech stack
 ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
