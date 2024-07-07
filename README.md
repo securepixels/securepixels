@@ -7,7 +7,6 @@
 - 🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️
 - I'm an avid reader, and my favorite author is James Baldwin
 - 🌱 I’m a UI Engineer & Technical Writer
-- Pivoting into Cybersecurity as a Security Engineer (currently studying for security+) 
 - I created a portfolio check it out here: [portfolio website](https://www.christiepamphile.com) (forever work in progress)
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
