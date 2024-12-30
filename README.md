@@ -2,9 +2,9 @@
 <h1 align="center"> 🌻 Welcome to my Github! </h1>
 
 
-Hi👋🏾, I’m Christie — a software engineer turned cybersecurity enthusiast with a growing focus on cloud security, data privacy, and automation. With over seven years of experience in software development, I’m now blending my technical expertise with my passion for safeguarding individuals and organizations in the digital world.
+Hi👋🏾, I’m Christie — a software engineer transitioning into cybersecurity, with a growing focus on cloud security, data privacy, and automation. With over seven years of experience in software development, I’m now channeling my expertise into building secure, scalable solutions while mentoring and empowering others on similar paths.
 
-This GitHub repository is where I document my journey, showcase my work, and share resources for others who are breaking into or growing in the field of cybersecurity. My mission is to create secure, scalable solutions while fostering a community of learning and collaboration.
+This GitHub is not just a collection of code—it’s a reflection of my journey and passion for learning. From hands-on projects to curated resources, you’ll find a mix of everything that fuels my curiosity and drives my mission to make technology safer for all.
 
  What You’ll Find Here <br>
 	• Hands-on Projects: <br>
