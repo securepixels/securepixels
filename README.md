@@ -1,15 +1,35 @@
 
-<h1 align="center"> 🌻 Hello! I'm Christie 👋🏾 </h1>
+<h1 align="center"> 🌻 Welcome to my Github! </h1>
 
 
+Hi👋🏾, I’m Christie — a software engineer turned cybersecurity enthusiast with a growing focus on cloud security, data privacy, and automation. With over seven years of experience in software development, I’m now blending my technical expertise with my passion for safeguarding individuals and organizations in the digital world.
 
-## About me ✨
+This GitHub repository is where I document my journey, showcase my work, and share resources for others who are breaking into or growing in the field of cybersecurity. My mission is to create secure, scalable solutions while fostering a community of learning and collaboration.
+
+ What You’ll Find Here <br>
+	• Hands-on Projects: <br>
+	•	Cloud security implementations (AWS, Azure) <br>
+	•	Networking and DevSecOps frameworks <br>
+	•	Cybersecurity Labs: <br>
+	• Home lab setups for blue team operations <br>
+	• Incident response scenarios using tools like Splunk <br>
+	•	Vulnerability testing and ethical hacking exercises <br>
+	•	Blogs and Resources: <br>
+	• Curated lists of certifications, tools, and learning paths <br>
+	•	Practical advice for career transitioners in cybersecurity <br>
+	•	Insights on integrating cloud security, AI, and data privacy <br>
+
+Ongoing Initiatives: <br>
+	•	SecurePixels: My personal platform for sharing cloud security projects, blogs, and networking experiments. <br>
+	•	AI + Cybersecurity: Exploring how AI can enhance threat detection and prevention strategies. <br>
+	•	Community Building: Actively contributing to groups like WiCyS and mentoring others through knowledge-sharing.
+
+I believe in the power of practical learning and collaboration. This space is constantly evolving as I work on new projects, experiment with tools, and build on my knowledge in cloud security, DevSecOps, and blue team operations.
+
+## Tidbits ✨
 - 🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️
 - I'm an avid reader, and my favorite author is James Baldwin
-- 🌱 I’m a Software Engineer transitioning to Cybersecurity
-- I created a portfolio check it out here: [portfolio website]() (forever work in progress)
 - 📫 How to reach me: cpamp2011@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming and I am an artist!🎨
 
 My technical writing samples at:
