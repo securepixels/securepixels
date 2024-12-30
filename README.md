@@ -2,38 +2,56 @@
 <h1 align="center"> 🌻 Welcome to my Github! </h1>
 
 
-Hi👋🏾, I’m Christie — a software engineer transitioning into cybersecurity, with a growing focus on cloud security, data privacy, and automation. With over seven years of experience in software development, I’m now channeling my expertise into building secure, scalable solutions while mentoring and empowering others on similar paths.
+Hi👋🏾, I'm Christie —a software engineer transitioning into the exciting world of cybersecurity. With a strong focus on cloud security, data privacy, and automation, I’m committed to building secure, scalable solutions while sharing my journey and knowledge with others.  
 
-This GitHub is not just a collection of code—it’s a reflection of my journey and passion for learning. From hands-on projects to curated resources, you’ll find a mix of everything that fuels my curiosity and drives my mission to make technology safer for all.
+This GitHub is not just a collection of code—it’s a reflection of my journey and passion for learning. From hands-on projects to curated resources, you’ll find a mix of everything that fuels my curiosity and drives my mission to make technology safer for all
 
- What You’ll Find Here <br>
-	• Hands-on Projects: <br>
-	•	Cloud security implementations (AWS, Azure) <br>
-	•	Networking and DevSecOps frameworks <br>
-	•	Cybersecurity Labs: <br>
-	• Home lab setups for blue team operations <br>
-	• Incident response scenarios using tools like Splunk <br>
-	•	Vulnerability testing and ethical hacking exercises <br>
-	•	Blogs and Resources: <br>
-	• Curated lists of certifications, tools, and learning paths <br>
-	•	Practical advice for career transitioners in cybersecurity <br>
-	•	Insights on integrating cloud security, AI, and data privacy <br>
 
-Ongoing Initiatives: <br>
-	•	SecurePixels: My personal platform for sharing cloud security projects, blogs, and networking experiments. <br>
-	•	AI + Cybersecurity: Exploring how AI can enhance threat detection and prevention strategies. <br>
-	•	Community Building: Actively contributing to groups like WiCyS and mentoring others through knowledge-sharing.
+---
 
-I believe in the power of practical learning and collaboration. This space is constantly evolving as I work on new projects, experiment with tools, and build on my knowledge in cloud security, DevSecOps, and blue team operations.
+## 🚀 My Cybersecurity Journey  
+I’ve taken proactive steps to build a strong foundation in cybersecurity by enrolling in courses, participating in challenges, and working on hands-on projects:  
+
+### **Courses & Training**  
+- Network+ Bootcamp and Azure Fundamentals Bootcamp at the University of Cincinnati  
+- OSINT Fundamentals and The Definitive GRC Analyst Master Class by TCM Security  
+- Cybersecurity Workforce Training at Purdue University:  
+  - **Courses completed**: Comptia A+, Linux Administration, Cisco Cysops, and Security+  
+
+### **Challenges & Achievements**  
+- Participated in the **DoD Cyber Sentinel Challenge**  
+- SANS BootUp Capture the Flag: Ranked **58th out of 1800 participants**  
+- 3-month TryHackMe learning journey, culminating in a SANS CTF challenge  
+
+---
+
+## 🔧 Currently Working On  
+- **Education**:  
+  - Master of Science in Cybersecurity and Information Assurance at WGU 
+- **Certifications**:  
+  - Studying for Security+ and AWS Solutions Architect certifications  
+- **Projects**:  
+  - Documenting my security journey on my blog and resource hub  
+  - Built a home lab focused on blue team operations and cloud security  
+- **Skills Development**:  
+  - Improving proficiency in Python, PowerShell, Linux, and Splunk  
+  - Gaining expertise in cloud platforms: Azure, AWS, and GCP  
+- **Staying Updated**:  
+  - Researching security breaches, CVEs, and the latest industry trends via Hacker News, forums, and white papers  
+
+---
+
+## ✨ Why Cybersecurity?  
+Inspired by real-world experiences with identity theft and phishing, I am passionate about safeguarding individuals and organizations. My technical background in software engineering gives me a unique edge as I transition into this field.  
+
+---
 
 ## Tidbits ✨
 - 🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️
 - I'm an avid reader, and my favorite author is James Baldwin
 - 📫 How to reach me: cpamp2011@gmail.com
 - ⚡ Fun fact: I love gaming and I am an artist!🎨
-
-My technical writing samples at:
-https://medium.com/@chrissyp
+- My technical writing samples at: https://medium.com/@chrissyp
 
 ## 🌻 Tech stack
 ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
