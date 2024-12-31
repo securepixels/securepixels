@@ -22,12 +22,6 @@ This GitHub is not just a collection of code—it’s a reflection of my journey
 - ⚡ Fun fact: I love gaming and I am an artist!🎨
 - My technical writing samples at: https://medium.com/@chrissyp
 
-
----
-
-## ✨ Why Cybersecurity?  
-Inspired by real-world experiences with identity theft and phishing, I am passionate about safeguarding individuals and organizations. My technical background in software engineering gives me a unique edge as I transition into this field.  
-
   
 ---
 
