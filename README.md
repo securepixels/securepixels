@@ -23,37 +23,6 @@ This GitHub is not just a collection of code—it’s a reflection of my journey
 - My technical writing samples at: https://medium.com/@chrissyp
 
   
----
-
-## 🚀 My Cybersecurity Journey  
-I’ve taken proactive steps to build a strong foundation in cybersecurity by enrolling in courses, participating in challenges, and working on hands-on projects:  
-
-### **Courses & Training**  
-- Network+ Bootcamp and Azure Fundamentals Bootcamp at the University of Cincinnati  
-- OSINT Fundamentals and The Definitive GRC Analyst Master Class by TCM Security  
-- Cybersecurity Workforce Training at Purdue University:  
-  - **Courses completed**: Comptia A+, Linux Administration, Cisco Cysops, and Security+  
-
-### **Challenges & Achievements**  
-- Participated in the **DoD Cyber Sentinel Challenge**  
-- SANS BootUp Capture the Flag: Ranked **58th out of 1800 participants**  
-- 3-month TryHackMe learning journey, culminating in a SANS CTF challenge  
-
----
-
-## 🔧 Currently Working On  
-- **Education**:  
-  - Master of Science in Cybersecurity and Information Assurance at WGU 
-- **Certifications**:  
-  - Studying for Security+ and AWS Solutions Architect certifications  
-- **Projects**:  
-  - Documenting my security journey on my blog and resource hub  
-  - Built a home lab focused on blue team operations and cloud security  
-- **Skills Development**:  
-  - Improving proficiency in Python, PowerShell, Linux, and Splunk  
-  - Gaining expertise in cloud platforms: Azure, AWS, and GCP  
-- **Staying Updated**:  
-  - Researching security breaches, CVEs, and the latest industry trends via Hacker News, forums, and white papers  
 
 ---
 
