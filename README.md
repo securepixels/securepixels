@@ -1,5 +1,7 @@
 
-<h1 align="center"> 🌻 Welcome to my Github! </h1>
+<!-- header jpg -->
+<img src="cybersecurity-banner.jpg" width="100%">
+<h1 align="center"> Hi 👋🏾, I'm Christie P. </h1>
 
 <!-- Profile Views -->
 
@@ -7,7 +9,7 @@
 </p
 
 
-Hi👋🏾, I'm Christie — a senior software engineer transitioning into the exciting world of cybersecurity. With a strong focus on cloud security, data privacy, and automation, I’m committed to building secure, scalable solutions while sharing my journey and knowledge with others.  
+I'm a senior software engineer transitioning into the exciting world of cybersecurity. With a strong focus on cloud security, data privacy, and automation, I’m committed to building secure, scalable solutions while sharing my journey and knowledge with others.  
 
 This GitHub is not just a collection of code—it’s a reflection of my journey and passion for learning. From hands-on projects to curated resources, you’ll find a mix of everything that fuels my curiosity and drives my mission to make technology safer for all.
 
@@ -104,14 +106,14 @@ I’ve taken proactive steps to build a strong foundation in cybersecurity by en
 ![Jenkins](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 ![Latex](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
-
+<br>
   <!-- GitHub section -->
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securepixels&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 </p>
