@@ -16,6 +16,7 @@ This GitHub is not just a collection of code—it’s a reflection of my journey
 ---
 
 ## Tidbits ✨
+- 📚 Graduate Student at WGU studying Cybersecurity and Information Assurance
 - 🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️
 - I'm an avid reader, and my favorite author is James Baldwin
 - 📫 How to reach me: cpamp2011@gmail.com
