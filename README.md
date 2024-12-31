@@ -113,7 +113,7 @@ I’ve taken proactive steps to build a strong foundation in cybersecurity by en
  
  <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Gift's LangStat" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=securepixels&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securepixels&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 </p>
