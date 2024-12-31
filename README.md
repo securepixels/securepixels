@@ -120,7 +120,7 @@ I’ve taken proactive steps to build a strong foundation in cybersecurity by en
 <br>
 
 
- 
+--- 
  ## Buy me a coffee
 <p><a href="https://www.buymeacoffee.com/securepixels"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
 <!--
