@@ -1,13 +1,12 @@
-
 <!-- header jpg -->
 <img src="cybersecurity-banner.jpg" width="100%">
+
 <h1 align="center"> Hi 👋🏾, I'm Christie P. </h1>
 
 <!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+</p>
 
 I'm a senior software engineer transitioning into cybersecurity. What piques my current interest are cloud security, information security, and AI. I am committed to building secure applications and sharing my journey and knowledge with others.
 
@@ -16,18 +15,19 @@ My GitHub is a reflection of my journey and passion for learning. It's cultivate
 ---
 
 ## Tidbits ✨
-- 📚 Graduate Student at WGU studying Cybersecurity and Information Assurance
-- 🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️
-- I'm an avid reader, and my favorite author is James Baldwin
-- 📫 How to reach me: cpamp2011@gmail.com
-- ⚡ Fun fact: I love gaming and I am an artist!🎨
-- My technical writing samples at: https://medium.com/@chrissyp
 
-  
+  <ul>
+    <li>📚 Graduate Student at WGU studying Cybersecurity and Information Assurance</li>
+    <li>🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️</li>
+    <li>I'm an avid reader, and my favorite author is James Baldwin</li>
+    <li>📫 How to reach me: cpamp2011@gmail.com</li>
+    <li>⚡ Fun fact: I love gaming and I am an artist!🎨</li>
+    <li>My technical writing samples at: <a href="https://medium.com/@chrissyp">Medium</a></li>
+  </ul>
+</div>
+
 
 ---
-
-
 
 ## 🌻 Tech stack
 ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
@@ -45,45 +45,47 @@ My GitHub is a reflection of my journey and passion for learning. It's cultivate
 ![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
 ![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
-![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
-![Github Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
-![Latex](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-272b33.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-272b33.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe_xd-272b33.svg?&style=for-the-badge&logo=adobe_xd&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-272b33?style=for-the-badge&logo=linux&logoColor=black)
+![Angular](https://img.shields.io/badge/angular-272b33.svg?&style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/python-272b33.svg?&style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-272b33.svg?&style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-272b33.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-272b33.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-272b33.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-272b33.svg?&style=for-the-badge&logo=glitch&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-272b33.svg?&style=for-the-badge&logo=apache&logoColor=white)
+![Github Actions](https://img.shields.io/badge/github_actions-272b33.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-272b33.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-272b33.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-272b33.svg?&style=for-the-badge&logo=terraform&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-272b33?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-272b33.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-272b33?style=for-the-badge&logo=splunk&logoColor=white) 
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-272b33?style=for-the-badge&logo=elasticsearch) 
+![Confluence](https://img.shields.io/badge/confluence-272b33.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-272b33.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![Latex](https://img.shields.io/badge/latex-272b33.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 <br>
-  <!-- GitHub section -->
 
- 
- <div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Gift's LangStat" />
+<!-- GitHub section -->
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Christie's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securepixels&theme=transparent&layout=compact" alt="Christie's Most Used Languages" />
+</div>
 
+<br><br><br><br><br><br><br>
+
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/securepixels">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee">
+  </a>
 </p>
-<br>
 
-
-
-<p><a href="https://www.buymeacoffee.com/securepixels"> <img align="" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
 <!--
 **chrissyacoder/chrissyacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+-->
