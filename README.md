@@ -77,8 +77,6 @@ This GitHub is not just a collection of code—it’s a reflection of my journey
  <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Gift's LangStat" />
 
-
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=securepixels&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
 </p>
 <br>
 
