@@ -9,7 +9,7 @@
 </p
 
 
-I'm a senior software engineer transitioning into the exciting world of cybersecurity. With a strong focus on cloud security, data privacy, and automation, I’m committed to building secure, scalable solutions while sharing my journey and knowledge with others.  
+I'm a senior software engineer transitioning into the exciting world of cybersecurity. With a strong focus on cloud security, data privacy, and artificial intelligence, I’m committed to building secure, scalable solutions while sharing my journey and knowledge with others.  
 
 This GitHub is not just a collection of code—it’s a reflection of my journey and passion for learning. From hands-on projects to curated resources, you’ll find a mix of everything that fuels my curiosity and drives my mission to make technology safer for all.
 
