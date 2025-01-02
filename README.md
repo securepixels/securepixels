@@ -78,9 +78,10 @@ My GitHub is a reflection of my journey and passion for learning. It's cultivate
 </div>
 
 <br><br><br><br><br><br><br>
+---
+## Support 💙
 
-<!-- Buy Me a Coffee -->
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/securepixels">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee">
   </a>
