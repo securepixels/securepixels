@@ -73,21 +73,17 @@ This GitHub is not just a collection of code—it’s a reflection of my journey
 <br>
   <!-- GitHub section -->
 
-
  
  <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Gift's LangStat" />
- <!--
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securepixels&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+
 
 </p>
 <br>
 
 
---- 
- ## Buy me a coffee
-<p><a href="https://www.buymeacoffee.com/securepixels"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
+
+<p><a href="https://www.buymeacoffee.com/securepixels"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
 <!--
 **chrissyacoder/chrissyacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
