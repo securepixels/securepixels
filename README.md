@@ -83,7 +83,7 @@ This GitHub is not just a collection of code—it’s a reflection of my journey
 
 
 
-<p><a href="https://www.buymeacoffee.com/securepixels"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/securepixels"> <img align="" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrissycodes" /></a></p><br><br>
 <!--
 **chrissyacoder/chrissyacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
