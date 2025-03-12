@@ -8,22 +8,25 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-I'm a senior software engineer transitioning into cybersecurity. What piques my current interest are cloud security, information security, and AI. I am committed to building secure applications and sharing my journey and knowledge with others.
+I'm a Security Engineer with a background in software development, now fully focused on cloud security, information security, and AI.
 
-My GitHub is a reflection of my journey and passion for learning. It's cultivated with hands-on projects and curated resources, finding a mix of everything that fuels my tenacity and drive to keep technology a safer place, one pixel at a time.
+My GitHub is a reflection of my journey—built with hands-on security projects, cloud security labs, and curated resources that fuel my drive to keep technology safer, one pixel at a time.
 
 ---
 
-## Tidbits ✨
+## 🔍 What I’m Working On
 
-  <ul>
-    <li>📚 Graduate Student at WGU studying Cybersecurity and Information Assurance</li>
-    <li>🔭 I’m currently learning Web Security, AI, Azure, AWS (I'm a lifelong learner == learning never stops)☺️</li>
-    <li>I'm an avid reader, and my favorite author is James Baldwin</li>
-    <li>📫 How to reach me: cpamp2011@gmail.com</li>
-    <li>⚡ Fun fact: I love gaming and I am an artist!🎨</li>
-    <li>My technical writing samples at: <a href="https://medium.com/@chrissyp">Medium</a></li>
-  </ul>
+📚 **Graduate Student at WGU** – Studying **Cybersecurity & Information Assurance**  
+🛡️ **Building hands-on security labs** – Cloud security, Active Directory hardening, SIEM & threat detection  
+🌍 **Exploring AI & its impact on security** – Automation, adversarial ML, and AI-driven threat detection  (I'm a lifelong learner == learning never stops)☺️
+
+---
+
+## ✨ About Me
+🎮 **Gamer & Digital Artist** – Creativity fuels both my art and my approach to security  
+📖 **Avid Reader** – James Baldwin is my favorite author  
+✍🏾 **Technical Writer** – Sharing insights on **cybersecurity & cloud security** on my blog (work in progress)
+
 </div>
 
 
