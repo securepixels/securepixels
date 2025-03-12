@@ -26,7 +26,7 @@ I'm a **Security Engineer** with a background in software development, now fully
 📖 **Avid Reader** – James Baldwin is my favorite author  
 ✍🏾 **Technical Writer** – Sharing insights on **cybersecurity & cloud security** on my blog (work in progress)
 
-
+</div>
 
 
 ---
