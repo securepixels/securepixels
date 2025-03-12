@@ -8,9 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-I'm a Security Engineer with a background in software development, now fully focused on cloud security, information security, and AI.
+I'm a **Security Engineer** with a background in software development, now fully focused on **cloud security, information security, and AI**. My GitHub is a reflection of my journey—built with **hands-on security projects, cloud security labs, and curated resources** that fuel my drive to keep technology safer, one pixel at a time.
 
-My GitHub is a reflection of my journey—built with hands-on security projects, cloud security labs, and curated resources that fuel my drive to keep technology safer, one pixel at a time.
 
 ---
 
