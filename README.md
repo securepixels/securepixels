@@ -22,7 +22,7 @@ I'm a **Security Engineer** with a background in software development, now fully
 ---
 
 ## ✨ About Me
-🎮 **Gamer & Digital Artist** – Creativity fuels both my art and my approach to security  
+🎮 **Gamer & Digital Artist** – Creativity fuels both my art and my passion  
 📖 **Avid Reader** – James Baldwin is my favorite author  
 ✍🏾 **Technical Writer** – Sharing insights on **cybersecurity & cloud security** on my blog (work in progress)
 
