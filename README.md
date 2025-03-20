@@ -15,9 +15,9 @@ Senior Software Engineer turned Cybersecurity Professional, with a passion for c
 
 ## 🔍 What I’m Working On
 
-📚 **Graduate Student at WGU** – Pursuing a Master's in Cybersecurity & Information Assurance
-🛡️ **Building hands-on security labs** – Focusing on cloud security, Active Directory hardening, SIEM, and threat detection
-🌍 **Exploring AI in security** – Diving into automation, adversarial ML, and AI-driven threat detection (I'm a lifelong learner == learning never stops)☺️
+📚 **Graduate Student at WGU** – Pursuing a Master's in Cybersecurity & Information Assurance  
+🛡️ **Building Security Labs** – Focusing on cloud security, Active Directory hardening, SIEM, and threat detection  
+🌍 **Exploring AI in Security** – Diving into automation, adversarial ML, and AI-driven threat detection   (I'm a lifelong learner == learning never stops)☺️
 
 ---
 
