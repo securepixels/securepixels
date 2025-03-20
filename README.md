@@ -15,16 +15,16 @@ Senior Software Engineer turned Cybersecurity Professional, with a passion for c
 
 ## 🔍 What I’m Working On
 
-📚 **Graduate Student at WGU** – Studying **Cybersecurity & Information Assurance**  
-🛡️ **Building hands-on security labs** – Cloud security, Active Directory hardening, SIEM & threat detection  
-🌍 **Exploring AI & its impact on security** – Automation, adversarial ML, and AI-driven threat detection  (I'm a lifelong learner == learning never stops)☺️
+📚 **Graduate Student at WGU** – Pursuing a Master's in Cybersecurity & Information Assurance
+🛡️ **Building hands-on security labs** – Focusing on cloud security, Active Directory hardening, SIEM, and threat detection
+🌍 **Exploring AI in security** – Diving into automation, adversarial ML, and AI-driven threat detection (I'm a lifelong learner == learning never stops)☺️
 
 ---
 
 ## ✨ About Me
 🎮 **Gamer & Digital Artist** – Creativity fuels both my art and my passion  
 📖 **Avid Reader** – James Baldwin is my favorite author  
-✍🏾 **Technical Writer** – Sharing insights on **cybersecurity & cloud security** on my blog (work in progress)
+✍🏾 **Technical Writer** – Sharing insights on cybersecurity and cloud security on my blog, SecurePixels (work in progress)
 
 </div>
 
