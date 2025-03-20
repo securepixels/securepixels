@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-I'm a **Senior Software Engineer** with a background in UI development, now fully focused on **cloud security, information security, and AI**. My GitHub is a reflection of my journey—built with **hands-on security projects, cloud security labs, and curated resources** that fuel my drive to keep technology safer, one pixel at a time.
+Senior Software Engineer turned Cybersecurity Professional, with a passion for cloud security, information security, and AI. My GitHub showcases hands-on security projects, cloud security labs, and curated resources that reflect my commitment to securing technology — one pixel at a time.
 
 
 ---
