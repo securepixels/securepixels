@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-Senior Software Engineer turned Cybersecurity Professional, with a passion for cloud security, information security, and AI. My GitHub showcases hands-on security projects, cloud security labs, and curated resources that reflect my commitment to securing technology — one pixel at a time.
+Senior Software Engineer with a passion for cloud security, information security, and AI. My GitHub showcases hands-on projects, cloud security labs, and curated resources that reflect my commitment to securing technology — one pixel at a time.
 
 
 ---
@@ -16,7 +16,6 @@ Senior Software Engineer turned Cybersecurity Professional, with a passion for c
 ## 🔍 What I’m Working On
 
 📚 **Graduate Student at WGU** – Pursuing a Master's in Cybersecurity & Information Assurance  
-🛡️ **Building Security Labs** – Focusing on cloud security, Active Directory hardening, SIEM, and threat detection  
 🌍 **Exploring AI in Security** – Diving into automation, adversarial ML, and AI-driven threat detection   (I'm a lifelong learner == learning never stops)☺️
 
 ---
