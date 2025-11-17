@@ -15,9 +15,9 @@ Senior Software Engineer with a passion for cloud security, information security
 
 ## 🔍 What I’m Working On
 
-📚 Graduate Student at WGU – Pursuing a Master’s in Cybersecurity & Information Assurance
-☁️ Cloud Security – Building hands-on projects focused on infrastructure hardening, IAM, detection engineering, and secure cloud deployments
-🌍 Exploring AI in Security – Diving into automation, adversarial ML, and AI-driven threat detection (I’m a lifelong learner == learning never stops)☺️
+📚 **Graduate Student at WGU** – Pursuing a Master’s in Cybersecurity & Information Assurance  
+☁️ **Cloud Security** – Building hands-on projects focused on infrastructure hardening, IAM, detection engineering, and secure cloud deployments  
+🌍 **Exploring AI in Security** – Diving into automation, adversarial ML, and AI-driven threat detection (I’m a lifelong learner == learning never stops)☺️
 
 ---
 
