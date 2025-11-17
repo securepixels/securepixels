@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-Senior Software Engineer with a passion for cloud security, information security, and AI. My GitHub showcases hands-on projects, cloud security labs, and curated resources that reflect my commitment to securing technology — one pixel at a time.
+Senior Software Engineer pivoting into cloud infrastructure and cloud security with a strong interest in AI. My GitHub is where I document the transition from building secure cloud labs and automation tools to curating learning resources. Every project reflects my commitment to learning and securing tech one pixel at a time.
 
 
 ---
@@ -24,7 +24,7 @@ Senior Software Engineer with a passion for cloud security, information security
 ## ✨ About Me
 🎮 **Gamer & Digital Artist** – Creativity fuels both my art and my passion  
 📖 **Avid Reader** – James Baldwin is my favorite author  
-✍🏾 **Technical Writer** – Sharing insights on cybersecurity and cloud security on my blog, SecurePixels (work in progress)
+✍🏾 **Technical Writer** – Sharing insights on cybersecurity and cloud security on my blog, securepixels (work in progress)
 
 </div>
 
