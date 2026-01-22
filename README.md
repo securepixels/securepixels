@@ -8,25 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-Senior Software Engineer pivoting into cloud infrastructure and cloud security with a strong interest in AI. My GitHub is where I document the transition from building secure cloud labs and automation tools to curating learning resources. Every project reflects my commitment to learning and securing tech one pixel at a time.
-
-
----
-
-## 🔍 What I’m Working On
-
-📚 **Graduate Student at WGU** – Pursuing a Master’s in Cybersecurity & Information Assurance  
-☁️ **Cloud Security** – Building hands-on projects focused on infrastructure hardening, IAM, detection engineering, and secure cloud deployments  
-🌍 **Exploring AI in Security** – Diving into automation, adversarial ML, and AI-driven threat detection (I’m a lifelong learner == learning never stops)☺️
-
----
-
-## ✨ About Me
-🎮 **Gamer & Digital Artist** – Creativity fuels both my art and my passion  
-📖 **Avid Reader** – James Baldwin is my favorite author  
-✍🏾 **Technical Writer** – Sharing insights on cybersecurity and cloud security on my blog, securepixels (work in progress)
-
-</div>
+Cloud Infrastructure Engineer with a background in software engineering and a focus on secure, scalable systems. I document hands-on projects in cloud automation, IAM, detection engineering, and infrastructure hardening. Currently pursuing a Master’s in Cybersecurity and Information Assurance at WGU while exploring how AI supports modern infrastructure and threat detection.
 
 
 ---
