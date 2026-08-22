@@ -1,5 +1,5 @@
 <!-- header jpg -->
-<img src="cybersecurity-banner.jpg" width="100%">
+<img src="securepixels-banner.svg" width="100%">
 
 <h1 align="center"> Hi 👋🏾, I'm Christie P. </h1>
 
@@ -8,68 +8,73 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-Cloud Infrastructure Engineer with a background in software engineering and a focus on secure, scalable systems. I document hands-on projects in cloud automation, IAM, detection engineering, and infrastructure hardening. Currently pursuing a Master’s in Cybersecurity and Information Assurance at WGU while exploring how AI supports modern infrastructure and threat detection.
+Cloud Security & Infrastructure Engineer with a background in software engineering and IT systems administration. I build and document hands-on projects in cloud security, SIEM operations, IAM, data privacy, and infrastructure-as-code. Currently completing my M.S. in Cybersecurity at WGU while exploring how AI supports modern infrastructure and threat detection.
 
 
 ---
 
-## 🌻 Tech stack
-![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
-![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=7710ee) 
-![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=0079f2) 
-![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=3ec7be) 
-![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
-![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
-![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-272b33.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-272b33.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe_xd-272b33.svg?&style=for-the-badge&logo=adobe_xd&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-272b33?style=for-the-badge&logo=linux&logoColor=black)
-![Angular](https://img.shields.io/badge/angular-272b33.svg?&style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/python-272b33.svg?&style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-272b33.svg?&style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-272b33.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-272b33.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-272b33.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-272b33.svg?&style=for-the-badge&logo=glitch&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-272b33.svg?&style=for-the-badge&logo=apache&logoColor=white)
-![Github Actions](https://img.shields.io/badge/github_actions-272b33.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-272b33.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-272b33.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-272b33.svg?&style=for-the-badge&logo=terraform&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-272b33?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-272b33.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-272b33?style=for-the-badge&logo=splunk&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-272b33?style=for-the-badge&logo=elasticsearch) 
-![Confluence](https://img.shields.io/badge/confluence-272b33.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-272b33.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
-![Latex](https://img.shields.io/badge/latex-272b33.svg?&style=for-the-badge&logo=latex&logoColor=white)
+## Certifications
+ 
+![CySA+](https://img.shields.io/badge/CompTIA_CySA+-272b33?style=for-the-badge&logo=comptia&logoColor=white)
+![PenTest+](https://img.shields.io/badge/CompTIA_PenTest+-272b33?style=for-the-badge&logo=comptia&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/(ISC)²_CC-272b33?style=for-the-badge&logo=isc2&logoColor=white)
+![SC-500](https://img.shields.io/badge/SC--500-272b33?style=for-the-badge&logo=microsoft&logoColor=white&label=studying)
 
-<br>
+---
+ 
+##  What I Work With
+ 
+**Cloud & Infrastructure**
+ 
+![AWS](https://img.shields.io/badge/AWS-272b33?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-272b33?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-272b33?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-272b33?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-272b33?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-272b33?style=for-the-badge&logo=github-actions&logoColor=white)
+ 
+**Security & Monitoring**
+ 
+![Splunk](https://img.shields.io/badge/Splunk-272b33?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-272b33?style=for-the-badge&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-272b33?style=for-the-badge&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-272b33?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-272b33?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-272b33?style=for-the-badge&logo=wireshark&logoColor=white)
+ 
+**Languages & Dev**
+ 
+![Python](https://img.shields.io/badge/Python-272b33?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-272b33?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-272b33?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-272b33?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ 
+**Systems & Tools**
+ 
+![Linux](https://img.shields.io/badge/Linux-272b33?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-272b33?style=for-the-badge&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-272b33?style=for-the-badge&logo=ansible&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-272b33?style=for-the-badge&logo=virtualbox&logoColor=white)
+ 
+---
+ 
+##  Current Projects
+ 
+| Project | Status | Stack |
+|---------|--------|-------|
+| **Security Operations Home Lab** | 🔨 Building | Wazuh, Keycloak, Presidio, Terraform, VirtualBox |
+| **AWS Security Posture Scanner** | 🔨 Building | AWS Lambda, Python, CIS Benchmarks, SNS, Terraform |
+ 
 
 <!-- GitHub section -->
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=securepixels&theme=transparent&show_icons=true" alt="Christie's GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securepixels&theme=transparent&layout=compact" alt="Christie's Most Used Languages" />
-</div>
 
-<br><br><br><br><br><br><br>
----
-## Support 💙
+<!-- ## Support 💙
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/securepixels">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee">
   </a>
-</p>
+</p> -->
 
 <!--
 **chrissyacoder/chrissyacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
