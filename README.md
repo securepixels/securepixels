@@ -64,7 +64,13 @@ Cloud Security & Infrastructure Engineer with a background in software engineeri
 |---------|--------|-------|
 | **Security Operations Home Lab** | 🔨 Building | Wazuh, Keycloak, Presidio, Terraform, VirtualBox |
 | **AWS Security Posture Scanner** | 🔨 Building | AWS Lambda, Python, CIS Benchmarks, SNS, Terraform |
- 
+
+---
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/securepixels/securepixels/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/securepixels/securepixels/blob/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/securepixels/securepixels/blob/output/github-snake.svg" />
+</picture>
 
 <!-- GitHub section -->
 
