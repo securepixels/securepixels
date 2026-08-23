@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-Cloud Security & Infrastructure Engineer with a background in software engineering and IT systems administration. Currently completing my M.S. 
+A security professional with a background in software engineering and IT systems administration. Currently completing my M.S. 
 in Cybersecurity at WGU.
 
 
