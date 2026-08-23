@@ -1,7 +1,11 @@
 <!-- header jpg -->
 <img src="securepixels-banner.svg" width="100%">
 
-<h1 align="center"> Hi 👋🏾, I'm Christie P. </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Cloud+Security+%26+Infrastructure;SIEM+%7C+IAM+%7C+Data+Privacy+%7C+IaC;Building+and+securing+cloud+systems" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Profile Views -->
 <p align="left">
@@ -66,6 +70,7 @@ Cloud Security & Infrastructure Engineer with a background in software engineeri
 | **AWS Security Posture Scanner** | 🔨 Building | AWS Lambda, Python, CIS Benchmarks, SNS, Terraform |
 
 ---
+
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/securepixels/securepixels/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/securepixels/securepixels/blob/output/github-snake.svg" />
