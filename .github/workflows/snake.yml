@@ -10,16 +10,16 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#4a90d9&color_dots=#2a2a42,#1e3a5f,#2a5a8f,#3a7bc8,#4a90d9
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#4a90d9&color_dots=#2a2a42,#1e3a5f,#2a5a8f,#3a7bc8,#4a90d9
+            dist/github-snake.svg?color_snake=#4a90d9&color_dots=#161b22,#1e3a5f,#2a5a8f,#3a7bc8,#4a90d9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#4a90d9&color_dots=#161b22,#1e3a5f,#2a5a8f,#3a7bc8,#4a90d9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
