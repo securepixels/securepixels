@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=securepixels&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
-Cloud Security & Infrastructure Engineer with a background in software engineering and IT systems administration. I build and document hands-on projects in cloud security, SIEM operations, IAM, data privacy, and infrastructure-as-code. Currently completing my M.S. in Cybersecurity at WGU while exploring how AI supports modern infrastructure and threat detection.
+Cloud Security & Infrastructure Engineer with a background in software engineering and IT systems administration. Currently completing my M.S. 
+in Cybersecurity at WGU.
 
 
 ---
