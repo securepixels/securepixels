@@ -63,12 +63,12 @@ in Cybersecurity at WGU.
  
 ---
  
-##  Current Projects
- 
-| Project | Status | Stack |
-|---------|--------|-------|
-| **[Security Operations Home Lab](https://github.com/securepixels/Security-Operations-Lab)** |  Building | Wazuh, Keycloak, Presidio, Terraform, VirtualBox |
-| **[AWS Security Posture Scanner](https://github.com/securepixels/aws-cloud-security-scanner)** | Building | Python, boto3, CIS Benchmarks, GitHub Actions |
+## Current Projects
+
+| Project | Stack |
+|---------|-------|
+| **[Security Operations Home Lab](https://github.com/securepixels/Security-Operations-Lab)** | Wazuh, Keycloak, Presidio, Terraform, VirtualBox |
+| **[AWS Security Posture Scanner](https://github.com/securepixels/aws-cloud-security-scanner)** | Python, boto3, CIS Benchmarks, GitHub Actions |
 
 ---
 
