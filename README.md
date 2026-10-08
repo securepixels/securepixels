@@ -23,7 +23,7 @@ in Cybersecurity at WGU.
 ![CySA+](https://img.shields.io/badge/CompTIA_CySA+-272b33?style=for-the-badge&logo=comptia&logoColor=white)
 ![PenTest+](https://img.shields.io/badge/CompTIA_PenTest+-272b33?style=for-the-badge&logo=comptia&logoColor=white)
 ![ISC2 CC](https://img.shields.io/badge/(ISC)²_CC-272b33?style=for-the-badge&logo=isc2&logoColor=white)
-![SC-500](https://img.shields.io/badge/SC--500-272b33?style=for-the-badge&logo=microsoft&logoColor=white&label=studying)
+<!-- ![SC-500](https://img.shields.io/badge/SC--500-272b33?style=for-the-badge&logo=microsoft&logoColor=white&label=studying) -->
 
 ---
  
